@@ -2,9 +2,6 @@ import requests
 import io
 from sklearn.decomposition import PCA
 import streamlit as st
-import matplotlib.pyplot as plt
-import pandas as pd
-from sklearn import datasets, linear_model
 import numpy as np
 from sklearn.metrics import mean_squared_error
 
